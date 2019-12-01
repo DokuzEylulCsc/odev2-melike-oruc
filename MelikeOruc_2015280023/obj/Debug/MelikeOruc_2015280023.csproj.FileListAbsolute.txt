@@ -1,0 +1,17 @@
+C:\Users\msı\Desktop\C#\MelikeOruc_2015280023\MelikeOruc_2015280023\bin\Debug\MelikeOruc_2015280023.exe.config
+C:\Users\msı\Desktop\C#\MelikeOruc_2015280023\MelikeOruc_2015280023\bin\Debug\MelikeOruc_2015280023.exe
+C:\Users\msı\Desktop\C#\MelikeOruc_2015280023\MelikeOruc_2015280023\bin\Debug\MelikeOruc_2015280023.pdb
+C:\Users\msı\Desktop\C#\MelikeOruc_2015280023\MelikeOruc_2015280023\obj\Debug\MelikeOruc_2015280023.Form1.resources
+C:\Users\msı\Desktop\C#\MelikeOruc_2015280023\MelikeOruc_2015280023\obj\Debug\MelikeOruc_2015280023.Properties.Resources.resources
+C:\Users\msı\Desktop\C#\MelikeOruc_2015280023\MelikeOruc_2015280023\obj\Debug\MelikeOruc_2015280023.csproj.GenerateResource.Cache
+C:\Users\msı\Desktop\C#\MelikeOruc_2015280023\MelikeOruc_2015280023\obj\Debug\MelikeOruc_2015280023.exe
+C:\Users\msı\Desktop\C#\MelikeOruc_2015280023\MelikeOruc_2015280023\obj\Debug\MelikeOruc_2015280023.pdb
+C:\Users\HP\Desktop\MelikeOruc_2015280023\MelikeOruc_2015280023\bin\Debug\MelikeOruc_2015280023.exe.config
+C:\Users\HP\Desktop\MelikeOruc_2015280023\MelikeOruc_2015280023\bin\Debug\MelikeOruc_2015280023.exe
+C:\Users\HP\Desktop\MelikeOruc_2015280023\MelikeOruc_2015280023\bin\Debug\MelikeOruc_2015280023.pdb
+C:\Users\HP\Desktop\MelikeOruc_2015280023\MelikeOruc_2015280023\obj\Debug\MelikeOruc_2015280023.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\MelikeOruc_2015280023\MelikeOruc_2015280023\obj\Debug\MelikeOruc_2015280023.Form1.resources
+C:\Users\HP\Desktop\MelikeOruc_2015280023\MelikeOruc_2015280023\obj\Debug\MelikeOruc_2015280023.Properties.Resources.resources
+C:\Users\HP\Desktop\MelikeOruc_2015280023\MelikeOruc_2015280023\obj\Debug\MelikeOruc_2015280023.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\MelikeOruc_2015280023\MelikeOruc_2015280023\obj\Debug\MelikeOruc_2015280023.exe
+C:\Users\HP\Desktop\MelikeOruc_2015280023\MelikeOruc_2015280023\obj\Debug\MelikeOruc_2015280023.pdb
